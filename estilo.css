@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: rgb(14, 14, 70);
+    
+}
+
+main {
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+h1 {
+ font-style: italic;
+padding-left: 10px;
+color: rebeccapurple;
+
+}
+
+h2 {
+    color: red;
+
+}
