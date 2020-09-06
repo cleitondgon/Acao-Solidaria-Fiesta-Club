@@ -29,6 +29,9 @@ h2 {
 }
 
 p.data {
+    color: red;   
+}
+
+p.hora {
     color: red;
-    font-weight: 1000;
 }
