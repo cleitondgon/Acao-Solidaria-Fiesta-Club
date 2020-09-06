@@ -26,5 +26,8 @@ color: rebeccapurple;
 
 h2 {
     color: red;
+}
 
+p.data {
+    color: red;
 }
