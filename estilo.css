@@ -6,7 +6,7 @@ body {
 }
 
 main {
-    background-color: white;
+    background-color: gray;
     width: 800px;
     margin: auto;
     padding: 10px;
@@ -40,4 +40,8 @@ p.hora {
 
 p.local {
     color: red;
+}
+
+p.paragrafo {
+    color: yellow;
 }
